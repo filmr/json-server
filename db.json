@@ -1,4 +1,6 @@
 {
+	"filmr_site": "https://filmrapp.com",
+	"filmr_logo": "https://elasticbeanstalk-us-east-1-508049151276.s3.amazonaws.com/FilmrTest/logo_filmr.png",
 	"filmr_projects": [{
 			"name": "video 1",
 			"thumbnail_url": "https://elasticbeanstalk-us-east-1-508049151276.s3.amazonaws.com/FilmrTest/video1_thumbnail.png",
