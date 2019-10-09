@@ -1,9 +1,32 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "projects": [
+    { "name": "video 1",
+      "thumbnail_url": "https://elasticbeanstalk-us-east-1-508049151276.s3.amazonaws.com/FilmrTest/video1_thumbnail.png",
+      "video_url": "https://elasticbeanstalk-us-east-1-508049151276.s3.amazonaws.com/FilmrTest/video1.mov"
+    },
+    { "name": "video 2",
+      "thumbnail_url": "https://elasticbeanstalk-us-east-1-508049151276.s3.amazonaws.com/FilmrTest/video2_thumbnail.png",
+      "video_url": "https://elasticbeanstalk-us-east-1-508049151276.s3.amazonaws.com/FilmrTest/video2.mp4"
+    },
+    { "name": "video 3",
+      "thumbnail_url": "https://elasticbeanstalk-us-east-1-508049151276.s3.amazonaws.com/FilmrTest/video3_thumbnail.png",
+      "video_url": "https://elasticbeanstalk-us-east-1-508049151276.s3.amazonaws.com/FilmrTest/video3.mov"
+    },
+    { "name": "video 4",
+      "thumbnail_url": "https://elasticbeanstalk-us-east-1-508049151276.s3.amazonaws.com/FilmrTest/video4_thumbnail.png",
+      "video_url": "https://elasticbeanstalk-us-east-1-508049151276.s3.amazonaws.com/FilmrTest/video4.mov"
+    },
+    { "name": "video 5",
+      "thumbnail_url": "https://elasticbeanstalk-us-east-1-508049151276.s3.amazonaws.com/FilmrTest/video5_thumbnail.png",
+      "video_url": "https://elasticbeanstalk-us-east-1-508049151276.s3.amazonaws.com/FilmrTest/video5.mov"
+    },
+    { "name": "video 6",
+      "thumbnail_url": "https://elasticbeanstalk-us-east-1-508049151276.s3.amazonaws.com/FilmrTest/video6_thumbnail.png",
+      "video_url": "https://elasticbeanstalk-us-east-1-508049151276.s3.amazonaws.com/FilmrTest/video6.mov"
+    },
+    { "name": "video 7",
+      "thumbnail_url": "https://elasticbeanstalk-us-east-1-508049151276.s3.amazonaws.com/FilmrTest/video7_thumbnail.png",
+      "video_url": "https://elasticbeanstalk-us-east-1-508049151276.s3.amazonaws.com/FilmrTest/video7.mov"
+    }
+  ]
 }
